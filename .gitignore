@@ -108,3 +108,5 @@ venv.bak/
 
 # Env Script
 set-api-variables.sh
+config.ini
+.cache-*
